@@ -1,0 +1,3 @@
+1. File "dist.rar" is a compressed package of visual interface.Please read the file "Installation manual.docx" before installing the visualization software. Please read the file "Operation manual.docx" before using the visualization software.
+2. Folders "Test data set" are organized data. The folder "Raw data (txt)" is the original data (txt).
+3. The file "Integration results.xlsx" is the result of sample data scoring.
